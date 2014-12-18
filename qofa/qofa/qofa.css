@@ -1,0 +1,70 @@
+.header{
+	height: 150px;
+  background-color: #99ffff;
+  color: #00033;
+  border-radius: 5px;
+  text-align:center;
+}
+.nav ul li{
+
+	text-align:center;
+	color:#00033;
+	background-color:#fffccc;
+	height:50px;
+	font-size:24px;
+	margin:20px;
+	display:inline;
+
+}
+.photobox{
+	width:1200px;
+	height:315px;
+	background-color:#ccffff;
+
+}
+.box{
+ height: 450px;
+  width: 400px;
+  border-radius: 10px;
+  margin: 30px;
+  float: left;
+  background-color:#99ffff;
+  color:#00033;
+  text-align:center;
+
+}
+.churchtour{
+	
+	width:100%;
+	float:left;
+	background-color:#ffccff;
+}
+
+  .photo {
+  	height:200px;
+  	width:300px;
+  }
+.widebox{
+	width:1300px;
+	height:300px;
+	background-color:#ccffff;
+	float:left;
+	text-align:center;
+
+}
+footer{
+	float:left;
+	text-align:center;
+	background-color:#99ccff;
+	width:1300px;
+}
+.jcarousel img {
+    display: block;
+    max-width: 100%;
+    height: auto !important;
+}
+.contact{
+	height:712px;
+	width:500px;
+	margin:auto;
+}
